@@ -1,0 +1,14 @@
+
+Algoritma :
+step 1 mendeklarasikan variabel alas,luas, dan tinggi dengan integer
+step 2 masukan tinggi = 30 dan alas =25
+step 3 luas = tinggi*alas/2
+step 4 Menampilkan luas
+
+Pseudocode :
+deklarasi
+variabel luas, alas, tinggi
+tinggi = 30
+alas = 25
+luas = tinggi*alas/2
+Menampilkan hasil luas segitiga

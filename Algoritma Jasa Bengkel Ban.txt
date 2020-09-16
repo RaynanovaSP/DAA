@@ -1,0 +1,21 @@
+Algoritma Jasa Bengkel Ban
+
+Algoritma : 
+step 1 parkirkan mobil di tempat yang sudah ditentukan
+step 2 pasang segitiga pengaman pada sisi mobil
+step 3 ambil dongkrak beserta kunci T
+step 4 dongkrak mobil
+step 5 buka baut ban menggunakan kunci T
+step 6 lepas ban mobil dan velg tersebut
+step 7 pasang ban serep dan juga velg baru
+step 8 pasang kembali baut
+step 9 lepaskan dongkrak
+step 10 mobil siap dipakai kembali
+
+Pseudocode:
+
+velg = integer (code velg harga 900)
+ban = integer (code ban harga 600)
+jasa = integer (code jasa harga 100)
+total = ban + velg + jasa
+Write (harga,total bayar,kembalian)
